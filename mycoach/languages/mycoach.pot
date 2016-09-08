@@ -1,0 +1,873 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyCoach\n"
+"POT-Creation-Date: 2016-04-29 16:25+0200\n"
+"PO-Revision-Date: 2016-04-29 16:26+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:81
+msgid "404"
+msgstr ""
+
+#: 404.php:141
+msgid "Return Back"
+msgstr ""
+
+#: comments.php:81
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:125
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:133
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:153
+msgid "Comments are closed."
+msgstr ""
+
+#: page-templates/page-blog-masonry.php:200 post-formats/content-aside.php:85
+#: post-formats/content-audio.php:93 post-formats/content-chat.php:85
+#: post-formats/content-gallery.php:105 post-formats/content-image.php:85
+#: post-formats/content-link.php:117 post-formats/content-quote.php:85
+#: post-formats/content-status.php:85 post-formats/content-video.php:81
+#: post-formats/content.php:89 pro-framework/config/pro-filters-config.php:589
+#: pro-framework/config/pro-filters-config.php:1009
+msgid "Read More"
+msgstr ""
+
+#: post-formats/content-none.php:25
+msgid "Oops!"
+msgstr ""
+
+#: post-formats/content-none.php:25
+msgid "Sorry, but your search returned no results!"
+msgstr ""
+
+#: post-formats/content-none.php:29
+msgid "Try again please, use the search form below."
+msgstr ""
+
+#: pro-framework/config/pro-actions-config.php:189
+msgid "Primary Menu"
+msgstr ""
+
+#: pro-framework/config/pro-actions-config.php:193
+msgid "Top Menu"
+msgstr ""
+
+#: pro-framework/config/pro-actions-config.php:197
+msgid "One Page Menu"
+msgstr ""
+
+#: pro-framework/config/pro-actions-config.php:201
+msgid "Footer Menu"
+msgstr ""
+
+#: pro-framework/config/pro-actions-config.php:562
+msgid "About the author"
+msgstr ""
+
+#: pro-framework/config/pro-filters-config.php:589
+#: pro-framework/config/pro-filters-config.php:1009
+msgid "about"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:213
+#: pro-framework/config/pro-front-end-functions.php:255
+#: pro-framework/config/pro-front-end-functions.php:515
+#: pro-framework/config/pro-front-end-functions.php:569
+msgid "By:"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:291
+#: pro-framework/config/pro-front-end-functions.php:329
+#: pro-framework/config/pro-front-end-functions.php:523
+#: pro-framework/config/pro-front-end-functions.php:561
+#: pro-framework/config/pro-front-end-functions.php:653
+msgid "0"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:291
+#: pro-framework/config/pro-front-end-functions.php:329
+#: pro-framework/config/pro-front-end-functions.php:523
+#: pro-framework/config/pro-front-end-functions.php:561
+#: pro-framework/config/pro-front-end-functions.php:653
+msgid "1"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:291
+#: pro-framework/config/pro-front-end-functions.php:329
+#: pro-framework/config/pro-front-end-functions.php:523
+#: pro-framework/config/pro-front-end-functions.php:561
+#: pro-framework/config/pro-front-end-functions.php:653
+msgid "%"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:397
+msgid "Posted in:"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:611
+msgid "Sticky"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:663
+msgid "Comments are Off"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:701
+msgid "Edit"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:739
+msgid "Previous Post"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:743
+msgid "Next Post"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:943
+msgid "Pages"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:957
+#: pro-framework/config/pro-front-end-functions.php:1211
+msgid "Next"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:959
+#: pro-framework/config/pro-front-end-functions.php:1209
+msgid "Previous"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:1145
+msgid "Load More"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:2282
+msgid "Pingback:"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:2288
+#: pro-framework/config/pro-front-end-functions.php:2342
+#: woocommerce/single-product/review.php:169
+msgid "(Edit)"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:2338
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: pro-framework/config/pro-front-end-functions.php:2360
+#: woocommerce/single-product/review.php:197
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: pro-framework/headers/includes/cart.php:17
+#: pro-framework/plugins/woocommerce/woocommerce-config.php:982
+msgid "View your shopping cart"
+msgstr ""
+
+#: pro-framework/headers/side-header.php:25
+msgid "Menu"
+msgstr ""
+
+#: pro-framework/plugins/pro-theme-updater/class-envato-protected-api.php:137
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: pro-framework/plugins/pro-theme-updater/class-envato-protected-api.php:143
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: pro-framework/plugins/pro-theme-updater/class-envato-protected-api.php:189
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: pro-framework/plugins/pro-theme-updater/class-envato-protected-api.php:313
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: pro-framework/plugins/woocommerce/woocommerce-ajax-cart.php:37
+msgid " items"
+msgstr ""
+
+#: pro-framework/plugins/woocommerce/woocommerce-ajax-cart.php:37
+msgid " in the shopping cart"
+msgstr ""
+
+#: pro-framework/plugins/woocommerce/woocommerce-ajax-cart.php:77
+msgid "Remove this item"
+msgstr ""
+
+#: pro-framework/plugins/woocommerce/woocommerce-ajax-cart.php:85
+msgid "TOTAL"
+msgstr ""
+
+#: pro-framework/plugins/woocommerce/woocommerce-ajax-cart.php:97
+msgid "View Cart"
+msgstr ""
+
+#: pro-framework/plugins/woocommerce/woocommerce-ajax-cart.php:101
+msgid "Checkout"
+msgstr ""
+
+#: pro-framework/plugins/woocommerce/woocommerce-ajax-cart.php:107
+msgid "No products in the cart."
+msgstr ""
+
+#: pro-framework/plugins/woocommerce/woocommerce-config.php:834
+msgid "Order Again"
+msgstr ""
+
+#: pro-framework/plugins/woocommerce/woocommerce-config.php:898
+msgid "Search for products"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1313
+#: pro-framework/plugins/zip/tgm-init.php:130
+msgid "Install Required Plugins"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1317
+#: pro-framework/plugins/zip/tgm-init.php:131
+msgid "Install Plugins"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1321
+#: pro-framework/plugins/zip/tgm-init.php:132
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1325
+#: pro-framework/plugins/zip/tgm-init.php:134
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1333
+#: pro-framework/plugins/zip/tgm-init.php:135
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1353
+#: pro-framework/plugins/zip/tgm-init.php:137
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1373
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1393
+#: pro-framework/plugins/zip/tgm-init.php:147
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1413
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1433
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1453
+#: pro-framework/plugins/zip/tgm-init.php:141
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1473
+#: pro-framework/plugins/zip/tgm-init.php:143
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1493
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1513
+#: pro-framework/plugins/zip/tgm-init.php:151
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1533
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1553
+#: pro-framework/plugins/zip/tgm-init.php:152
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1569
+#: pro-framework/plugins/zip/tgm-init.php:153
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1573
+msgid "Return to the dashboard"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1577
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:11435
+#: pro-framework/plugins/zip/tgm-init.php:154
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1581
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:10699
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1585
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1589
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1593
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1597
+msgid "Dismiss this notice"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:1601
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:2053
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:2057
+msgid "Update Required"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:2485
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:3145
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:12919
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:3529
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:3529
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:3553
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:3553
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:4217
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:10687
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:7213
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:8285
+msgid "Required"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:8297
+msgid "Recommended"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:8361
+msgid "WordPress Repository"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:8373
+msgid "External Source"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:8385
+msgid "Pre-Packaged"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:8457
+msgid "Not Installed"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:8469
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:8477
+msgid "Active"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:8493
+msgid "Required Update not Available"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:8501
+msgid "Requires Update"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:8509
+msgid "Update recommended"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:8537
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:8705
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:8717
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:8729
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:8741
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9073
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9097
+msgid "Installed version:"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9125
+msgid "Minimum required version:"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9165
+msgid "Available version:"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9251
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9303
+msgid "Plugin"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9307
+msgid "Source"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9311
+msgid "Type"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9323
+msgid "Version"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9327
+msgid "Status"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9519
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9535
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9551
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9819
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9943
+msgid "Install"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9963
+msgid "Update"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:9975
+msgid "Activate"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:10083
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:10091
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:10211
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:10219
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:10551
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:10639
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:11431
+msgid "Plugin activation failed."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:12639
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:12647
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:12651
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:12663
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:12667
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:12667
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:12691
+msgid "Show Details"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:12667
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:12691
+msgid "Hide Details"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:12671
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:12675
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:12687
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:12691
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:12695
+msgid "All installations have been completed."
+msgstr ""
+
+#: pro-framework/plugins/zip/class-tgm-plugin-activation.php:12699
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: pro-framework/plugins/zip/tgm-init.php:139
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/tgm-init.php:145
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/tgm-init.php:149
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: pro-framework/plugins/zip/tgm-init.php:155
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: pro-framework/template-parts/footer-menu.php:47
+msgid ""
+"Go to Theme Options &#62; Footer &#62; Copyright Bar and set option Footer "
+"Right Content"
+msgstr ""
+
+#: pro-framework/template-parts/image-header.php:103
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: pro-framework/template-parts/image-header.php:111
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: pro-framework/template-parts/image-header.php:119
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: pro-framework/template-parts/image-header.php:119
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: pro-framework/template-parts/image-header.php:127
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: pro-framework/template-parts/image-header.php:127
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: pro-framework/template-parts/image-header.php:135
+msgid "Asides"
+msgstr ""
+
+#: pro-framework/template-parts/image-header.php:143
+msgid "Galleries"
+msgstr ""
+
+#: pro-framework/template-parts/image-header.php:151
+msgid "Images"
+msgstr ""
+
+#: pro-framework/template-parts/image-header.php:159
+msgid "Videos"
+msgstr ""
+
+#: pro-framework/template-parts/image-header.php:167
+msgid "Quotes"
+msgstr ""
+
+#: pro-framework/template-parts/image-header.php:175
+msgid "Links"
+msgstr ""
+
+#: pro-framework/template-parts/image-header.php:183
+msgid "Statuses"
+msgstr ""
+
+#: pro-framework/template-parts/image-header.php:191
+msgid "Audios"
+msgstr ""
+
+#: pro-framework/template-parts/image-header.php:199
+msgid "Chats"
+msgstr ""
+
+#: pro-framework/template-parts/image-header.php:207
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:45
+msgid "Search"
+msgstr ""
+
+#: woocommerce/content-product.php:177
+#: woocommerce/single-product/product-image.php:65
+msgid "Sale!"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:41
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:137
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/related.php:137
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:85
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:149
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:129
+msgid "You may also like"
+msgstr ""

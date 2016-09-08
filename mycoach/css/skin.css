@@ -1,0 +1,51 @@
+/*SKIN*/
+.post-excerpt p a:hover,
+.form.mc4wp-form input[type="submit"],
+.no-results h2 span,
+.comment-meta,
+.comment-reply-link,
+.woocommerce ins,
+.woocommerce-page ins,
+#yith-wcwl-popup-message,
+.widget_shopping_cart .buttons a.checkout,
+.summary.entry-summary .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse a,
+.summary.entry-summary .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse a,
+.summary.entry-summary .compare-button a.compare.added,
+.product-wrapper .actions .add-to-cart a.button.added,
+.product-wrapper .actions .add-to-links .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistexistsbrowse a,
+.product-wrapper .actions .add-to-links .yith-wcwl-add-to-wishlist .yith-wcwl-wishlistaddedbrowse a,
+.product-wrapper .actions .add-to-links .compare-button a.compare.added,
+.product-wrapper .actions .add-to-cart a.button.added,
+.product-wrapper .actions .add-to-links .compare-button a.compare.added {
+	color: #A0CF4D;
+}
+.form.mc4wp-form input[type="submit"],
+.testimonialSlider .rsBullet.rsNavSelected span,
+#yith-wcwl-popup-message,
+.widget_shopping_cart .buttons a.checkout {
+	border-color: #A0CF4D;
+}
+.form.mc4wp-form input[type="submit"]:hover,
+.testimonial-misc,
+.widget_tag_cloud a:hover,
+.entry-tags-list a:hover,
+.entry-tags-list a:hover,
+.vc_col-sm-4 .wpcf7-form input[type="submit"],
+.widget_shopping_cart .buttons a.checkout:hover,
+.summary.entry-summary .yith-wcwl-add-to-wishlist a:hover,
+.summary.entry-summary .yith-wcwl-add-to-wishlist a.add_to_wishlist:hover,
+.summary.entry-summary .compare-button a.compare:hover,
+.summary.entry-summary .yith-wcwl-add-to-wishlist a:hover,
+.summary.entry-summary .yith-wcwl-add-to-wishlist a.add_to_wishlist:hover,
+.summary.entry-summary .compare-button a.compare:hover,
+.product-wrapper .onsale .sale-bg,
+.product-wrapper .actions .add-to-cart a.button:hover,
+.product-wrapper .actions .add-to-links .yith-wcwl-add-to-wishlist a:hover,
+.product-wrapper .actions .add-to-links .yith-wcwl-add-to-wishlist a.add_to_wishlist:hover,
+.product-wrapper .actions .add-to-links .compare-button a.compare:hover,
+.product-wrapper .actions .add-to-cart a.button:hover,
+.product-wrapper .actions .add-to-links .yith-wcwl-add-to-wishlist a:hover,
+.product-wrapper .actions .add-to-links .yith-wcwl-add-to-wishlist a.add_to_wishlist:hover,
+.product-wrapper .actions .add-to-links .compare-button a.compare:hover {
+	background: #A0CF4D;
+}
